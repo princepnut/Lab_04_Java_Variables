@@ -27,10 +27,10 @@ public class main2{
         System.out.println("The difference using int of " + intOperandB + " and " + intOperandA + " is " + intDifference);
         System.out.println("The quotient using int of " + intOperandB + " and " + intOperandA + " is " + intQuotient);
         System.out.println("The modulo using int of " + intOperandA + " and " + intOperandB + " is " + intModulo);
-        System.out.println("The sum using int of " + doubleOperandB + " and " + doubleOperandA + " is " + doubleSum);
-        System.out.println("The product using int of " + doubleOperandB + " and " + doubleOperandA + " is " + doubleProduct);
-        System.out.println("The difference using int of " + doubleOperandB + " and " + doubleOperandA + " is " + doubleDifference);
-        System.out.println("The quotient using int of " + doubleOperandB + " and " + doubleOperandA + " is " + doubleQuotient);
+        System.out.println("The sum using double of " + doubleOperandB + " and " + doubleOperandA + " is " + doubleSum);
+        System.out.println("The product using double of " + doubleOperandB + " and " + doubleOperandA + " is " + doubleProduct);
+        System.out.println("The difference using double of " + doubleOperandB + " and " + doubleOperandA + " is " + doubleDifference);
+        System.out.println("The quotient using double of " + doubleOperandB + " and " + doubleOperandA + " is " + doubleQuotient);
 
     }
 }
